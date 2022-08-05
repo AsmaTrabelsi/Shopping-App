@@ -37,6 +37,7 @@ class _NavigationHomeScreenState extends State<NavigationHomeScreen> {
       extendBodyBehindAppBar: true,
       appBar: AppBar(
         centerTitle: true,
+        iconTheme: IconThemeData(color: titleColor),
         title: Text(titleList[_currentIndex],style: TextStyle(fontWeight: FontWeight.bold,fontSize: 18,color: titleColor)),
         actions: [
           IconButton(onPressed: (){

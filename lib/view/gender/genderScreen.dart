@@ -104,7 +104,7 @@ class _GendreScreenState extends State<GendreScreen> {
             ),
           ) : Container(),
           productsSale.isNotEmpty ? Container(
-            height: heightScreen >= 800 ? heightScreen *0.36: heightScreen *0.37  ,
+            height: heightScreen >= 800 ? heightScreen *0.36: heightScreen *0.39  ,
             margin: EdgeInsets.only(left: 10),
             child: ListView.builder(
               scrollDirection: Axis.horizontal,
@@ -134,7 +134,7 @@ class _GendreScreenState extends State<GendreScreen> {
             ),
           ): Container(),
           productsNew.isNotEmpty ? Container(
-            height: heightScreen >= 800 ? heightScreen *0.36: heightScreen *0.37  ,
+            height: heightScreen >= 800 ? heightScreen *0.36: heightScreen *0.38  ,
             margin: EdgeInsets.only(left: 10),
             child: ListView.builder(
               scrollDirection: Axis.horizontal,
@@ -163,7 +163,7 @@ class _GendreScreenState extends State<GendreScreen> {
             ),
           ) :Container(),
           productFavoriteSale.isNotEmpty ? Container(
-            height: heightScreen >= 800 ? heightScreen *0.36: heightScreen *0.37  ,
+            height: heightScreen >= 800 ? heightScreen *0.36: heightScreen *0.38  ,
             margin: EdgeInsets.only(left: 10),
             child: ListView.builder(
               scrollDirection: Axis.horizontal,

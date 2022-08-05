@@ -37,7 +37,7 @@ class MyThemes{
       appBarTheme:AppBarTheme(
         color: Colors.grey.shade200,
         iconTheme: IconThemeData(
-            color: Colors.grey.shade200
+            color: Colors.grey.shade700
         ),
         titleTextStyle: TextStyle(color: Colors.grey.shade700,fontWeight: FontWeight.w500)
       ) ,

@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:graphql_flutter/graphql_flutter.dart';
 import 'package:provider/provider.dart';
 import 'package:shopping/services/databaseHelper.dart';
-import 'package:shopping/view/HomeScreen.dart';
+import 'package:shopping/view/gender/HomeScreen.dart';
 import 'package:shopping/view/navigationHomeScreen.dart';
 import 'package:shopping/view/payment/orderConfirmed.dart';
 import 'package:shopping/view/product/ProductScreen.dart';
@@ -40,15 +40,14 @@ class _MyAppState extends State<MyApp> {
             themeMode: themeProvider.themeMode,
             theme: MyThemes.lightTheme,
             darkTheme: MyThemes.darkTheme,
-            initialRoute: '/GenderScreen',
+            initialRoute: '/HomeScreen',
             routes: {
-              '/GenderScreen' : (context)=> HomeScreen(),
+              '/HomeScreen' : (context)=> HomeScreen(),
               '/NavigationHomeScreen' : (context)=> NavigationHomeScreen(),
               '/ProductScreen' : (context)=> ProductScreen(),
               '/LoginScreen' : (context)=> LoginScreen(),
               '/RegistreScreen' : (context)=> RegistreScreen(),
               '/OrderConfirmed' : (context)=> OrderConfirmed(),
-
             },
 
           );
