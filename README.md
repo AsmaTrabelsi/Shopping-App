@@ -10,12 +10,14 @@ This is a mobile application built using Flutter framework and Graphql API, whic
 - Sign in/Sign up using email or Google account
 
 <h3>Technologies and Tools</h3>
+The project uses the following technologies and tools:
 - Flutter
 - Dart
 - GraphQl
 - Hasura
 
 <h3>Getting Started</h3>
+To run the project on your local machine : 
 1. Clone this repository: git clone https://github.com/AsmaTrabelsi/Shopping-App.git
 2. Navigate to the project directory: cd shopping_store_mobile_app
 3. Install the required dependencies: flutter pub get
@@ -23,7 +25,7 @@ This is a mobile application built using Flutter framework and Graphql API, whic
 
 <h3>Screenshots</h3>
 <div align="center">
-<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/2355f279-501f-4b41-9285-9af9058e82af" width="200">
+<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/2355f279-501f-4b41-9285-9af9058e82af" width="130">
 <img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/174479b7-39f2-4867-aa63-8c8c3e81693c" width="200">
 <img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/3359ad80-5637-4fd3-8646-a8c0c511d7df" width="200">
   
