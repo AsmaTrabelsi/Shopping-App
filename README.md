@@ -10,6 +10,14 @@ This is a mobile application built using Flutter framework and Graphql API, whic
 - Sign in/Sign up using email or Google account
 
 <h3>Technologies and Tools</h3>
+------
+The project uses the following technologies and tools:
+
+- UiPath Studio: the main development environment for creating and testing RPA workflows
+- Microsoft Excel: the source of data for the automation process
+- Web browser: the target of the web automation tasks (e.g., Google Chrome or Mozilla Firefox)
+- Desktop application: the target of the desktop automation tasks (e.g., Microsoft Windows application)
+- -----
 The project uses the following technologies and tools:
 - Flutter
 - Dart
