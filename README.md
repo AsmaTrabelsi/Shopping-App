@@ -43,7 +43,8 @@ To run the project on your local machine :
 <img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/640eeb37-ec96-43b5-ad28-56a351780c19" width="150" style="margin-right: 10px;">
   
 <img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/56c6c8ca-7589-4777-899c-6d05dccc014f" width="150" style="margin-right: 10px;">
-<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/456646b0-46e2-4b2d-bbac-8de64bbf3e80" width="150" style="margin-right: 10px
+<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/456646b0-46e2-4b2d-bbac-8de64bbf3e80" width="150" style="margin-right: 10px;">
+ </div>
 
 
 <h3>Contributions</h3>
