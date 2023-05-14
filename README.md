@@ -11,6 +11,7 @@ This is a mobile application built using Flutter framework and Graphql API, whic
 
 <h3>Technologies and Tools</h3>
 The project uses the following technologies and tools:
+
 - Flutter
 - Dart
 - GraphQl
