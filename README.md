@@ -3,11 +3,11 @@
 This is a mobile application built using Flutter framework and Graphql API, which allows users to buy clothes for both women and men, browse through various categories, add items to their cart, make payments online, and track their orders until delivery. The application uses Hasura as a backend to manage the database and the graphql queries.
 
 <h3>Features</h3>
-Browse through different clothing categories for both women and men
-Add items to your cart
-Make online payments securely
-Track your orders until delivery
-Sign in/Sign up using email or Google account
+- Browse through different clothing categories for both women and men
+- Add items to your cart
+- Make online payments securely
+- Track your orders until delivery
+- Sign in/Sign up using email or Google account
 
 <h3>Technologies and Tools</h3>
 - Flutter
@@ -23,12 +23,18 @@ Sign in/Sign up using email or Google account
 
 <h3>Screenshots</h3>
 <div align="center">
-<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/60ab25dd-28e3-446d-927a-65861f4a40f3" width="250">
-<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/174479b7-39f2-4867-aa63-8c8c3e81693c" width="250">
+<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/2355f279-501f-4b41-9285-9af9058e82af" width="200">
+<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/174479b7-39f2-4867-aa63-8c8c3e81693c" width="200">
+<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/174479b7-39f2-4867-aa63-8c8c3e81693c" width="200">
+  
+<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/4c94d41f-25cb-4b5b-9b18-d7184056b2bf" width="200">
+<img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/ed6839ed-da59-4464-adb4-b9853d0d6fcf" width="200">
+
+
 </div>
 
-Contributions
+<h3>Contributions</h3>
 Contributions to this project are welcome. You can fork the repository, make changes, and create a pull request.
 
-License
+<h3>License</h3>
 This project is licensed under the MIT License.
