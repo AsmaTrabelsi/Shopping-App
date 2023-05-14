@@ -33,7 +33,6 @@ This is a mobile application built using Flutter framework and Graphql API, whic
 <img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/e35bb633-67b6-494a-8135-86acec0b0a7e" width="200">
 <img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/1385dbba-2e61-4c00-bcb3-355e5bee0f5b" width="200">
   
-  <img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/1385dbba-2e61-4c00-bcb3-355e5bee0f5b" width="200">
 <img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/ba0a4eea-78ff-4ad9-93a4-574dea5a6b31" width="200">
   
  <img src="https://github.com/AsmaTrabelsi/Shopping-App/assets/84926915/c11292fc-0ac7-4405-8e86-8b16414b0e68" width="200">
