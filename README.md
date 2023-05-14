@@ -3,6 +3,7 @@
 This is a mobile application built using Flutter framework and Graphql API, which allows users to buy clothes for both women and men, browse through various categories, add items to their cart, make payments online, and track their orders until delivery. The application uses Hasura as a backend to manage the database and the graphql queries.
 
 <h3>Features</h3>
+
 - Browse through different clothing categories for both women and men
 - Add items to your cart
 - Make online payments securely
@@ -19,6 +20,7 @@ The project uses the following technologies and tools:
 
 <h3>Getting Started</h3>
 To run the project on your local machine : 
+
 1. Clone this repository: git clone https://github.com/AsmaTrabelsi/Shopping-App.git
 2. Navigate to the project directory: cd shopping_store_mobile_app
 3. Install the required dependencies: flutter pub get
